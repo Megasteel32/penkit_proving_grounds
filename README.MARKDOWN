@@ -23,6 +23,8 @@ you're doing too much.
 This exception is meant for small artists or studios, and should be a supplementation to one's own work, not the only
 thing they sell. 
 
+## Acknowledgements
+
 I used the following websites to find the L systems found in fractals2electricboogaloo:
 
 - http://www.nahee.com/spanky/pub/fractals/lsystems/mcworter.l (access using the wayback machine)
