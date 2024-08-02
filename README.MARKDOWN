@@ -7,7 +7,8 @@ under CC-BY-NC-SA 4.0. This repo is a work in progress.
 ### Fractals2electricboogaloo
 
 This notebook is a collection of L systems. At the top, set the default save directory so when you
-run the cells the images get saved where you want them. 
+run the cells the images get saved where you want them. You'll note some do repeat, but the formulas themselves
+should be different.
 
 ## License Exception 
 
